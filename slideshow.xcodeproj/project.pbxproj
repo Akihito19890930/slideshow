@@ -14,6 +14,10 @@
 		C7322B221E66D3D3005D0AB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7322B201E66D3D3005D0AB7 /* LaunchScreen.storyboard */; };
 		C7322B2D1E66D3D4005D0AB7 /* slideshowTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7322B2C1E66D3D4005D0AB7 /* slideshowTests.swift */; };
 		C7322B381E66D3D4005D0AB7 /* slideshowUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7322B371E66D3D4005D0AB7 /* slideshowUITests.swift */; };
+		C7322B491E66D669005D0AB7 /* bear.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C7322B451E66D669005D0AB7 /* bear.jpg */; };
+		C7322B4A1E66D669005D0AB7 /* cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C7322B461E66D669005D0AB7 /* cat.jpg */; };
+		C7322B4B1E66D669005D0AB7 /* doga.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C7322B471E66D669005D0AB7 /* doga.jpg */; };
+		C7322B4C1E66D669005D0AB7 /* pig.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C7322B481E66D669005D0AB7 /* pig.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,10 @@
 		C7322B331E66D3D4005D0AB7 /* slideshowUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = slideshowUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7322B371E66D3D4005D0AB7 /* slideshowUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = slideshowUITests.swift; sourceTree = "<group>"; };
 		C7322B391E66D3D4005D0AB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7322B451E66D669005D0AB7 /* bear.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bear.jpg; sourceTree = "<group>"; };
+		C7322B461E66D669005D0AB7 /* cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat.jpg; sourceTree = "<group>"; };
+		C7322B471E66D669005D0AB7 /* doga.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = doga.jpg; sourceTree = "<group>"; };
+		C7322B481E66D669005D0AB7 /* pig.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pig.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +109,10 @@
 				C7322B191E66D3D3005D0AB7 /* ViewController.swift */,
 				C7322B1B1E66D3D3005D0AB7 /* Main.storyboard */,
 				C7322B1E1E66D3D3005D0AB7 /* Assets.xcassets */,
+				C7322B451E66D669005D0AB7 /* bear.jpg */,
+				C7322B461E66D669005D0AB7 /* cat.jpg */,
+				C7322B471E66D669005D0AB7 /* doga.jpg */,
+				C7322B481E66D669005D0AB7 /* pig.jpg */,
 				C7322B201E66D3D3005D0AB7 /* LaunchScreen.storyboard */,
 				C7322B231E66D3D3005D0AB7 /* Info.plist */,
 			);
@@ -232,8 +244,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7322B4A1E66D669005D0AB7 /* cat.jpg in Resources */,
 				C7322B221E66D3D3005D0AB7 /* LaunchScreen.storyboard in Resources */,
+				C7322B491E66D669005D0AB7 /* bear.jpg in Resources */,
+				C7322B4C1E66D669005D0AB7 /* pig.jpg in Resources */,
 				C7322B1F1E66D3D3005D0AB7 /* Assets.xcassets in Resources */,
+				C7322B4B1E66D669005D0AB7 /* doga.jpg in Resources */,
 				C7322B1D1E66D3D3005D0AB7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
